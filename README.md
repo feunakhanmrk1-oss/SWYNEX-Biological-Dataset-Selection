@@ -1,35 +1,79 @@
-# SWYNEX Biological Dataset Selection
+SWYNEX Biological Dataset Selection Project Title 
 
-## Project Overview
-This project focuses on selecting a public biological dataset for bioinformatics analysis.
+Selection and Exploration of the Mycobacterium tuberculosis H37Rv Genome Using NCBI
 
-## Objective
-To identify and describe a biological or genomic dataset from a reliable public database.
+1. Project Overview 
 
-# Dataset Information
-Mycobacterium tuberculosis H37Rv — NCBI Genome Details 
+This project focuses on selecting a biological dataset from the National Center for Biotechnology Information (NCBI) database. The selected dataset is the complete reference genome of Mycobacterium tuberculosis strain H37Rv.
 
-Organism name: Mycobacterium tuberculosis strain H37Rv
+The project introduces biological database searching, genome sequence retrieval, accession numbers, and sequence comparison using BLAST.
 
-Source: NCBI Nucleotide / RefSeq
+2. Objective To identify a suitable biological dataset using NCBI. To collect important genomic information about the selected organism. To retrieve and examine the reference genome sequence. To explore sequence similarity using BLAST. To understand how bioinformatics tools support genomic research. 3. Organism Information 
 
-RefSeq accession number: NC_000962.3
+Organism name: Mycobacterium tuberculosis H37Rv
 
-Genome size: 4,411,532 base pairs (bp)
+Organism type: Bacterium
 
-Genome type: Double-stranded DNA (dsDNA)
+Biological significance: It is a reference strain of the bacterium that causes tuberculosis (TB).
 
-Chromosome structure: One circular chromosome
+4. NCBI Genome Details Parameter Information Database NCBI Nucleotide / RefSeq Reference sequence accession NC_000962.3 Assembly name ASM19595v2 Assembly accession (GenBank) GCA_000195955.2 Assembly accession (RefSeq) GCF_000195955.2 Genome size 4,411,532 base pairs (bp) Genome type Double-stranded DNA (dsDNA) Chromosome structure One circular chromosome GC content Approximately 65.6% 
 
-GC content: Approximately 65.6%
+Official NCBI links:
 
-Assembly accession: ASM195959v2
+Reference genome: https://www.ncbi.nlm.nih.gov/nuccore/NC_000962.3 Genome assembly: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000195955.2/ 5. Dataset Selection Rationale 
 
-Data format: ZIP archive containing downloaded NCBI dataset files
-#  Reason for Selection
-Mycobacterium tuberculosis causes tuberculosis. Its genome is useful for studying bacterial genes, genome organization, and potential drug targets.
-# Data Source
-NCBI Datasets: https://www.ncbi.nlm.nih.gov/datasets/
-Genome assembly: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_000195955.2/
-# Conclusion
-A publicly available Mycobacterium tuberculosis H37Rv genome dataset was selected from NCBI for further bioinformatics analysis.
+Mycobacterium tuberculosis H37Rv was selected because it is a well-studied reference strain with an available, annotated genome sequence. Its genome can be explored using bioinformatics databases and sequence-analysis tools.
+
+This dataset is suitable for learning about genome organization, nucleotide sequences, genomic annotations, and sequence similarity.
+
+6. Methodology Step 1: Open NCBI 
+
+The National Center for Biotechnology Information (NCBI) website was opened to search for biological genome data.
+
+Step 2: Search for the Organism 
+
+The name Mycobacterium tuberculosis was entered in the NCBI Genome database.
+
+Step 3: Select the Genome Assembly 
+
+The reference genome assembly for strain H37Rv was selected.
+
+Step 4: Open the Reference Sequence 
+
+The RefSeq accession NC_000962.3 was opened to examine the complete genome record.
+
+Step 5: View the FASTA Sequence 
+
+The FASTA format was used to view the nucleotide sequence. FASTA represents biological sequences using a header and a sequence written in nucleotide letters.
+
+Step 6: Perform BLAST 
+
+The BLAST tool was used to compare the selected sequence with sequences available in the database.
+
+Step 7: Examine a BLAST Match 
+
+A result for Mycobacterium tuberculosis strain CT2018-00091, chromosome complete genome, was opened for further examination.
+
+Step 8: View the Graphics 
+
+The Graphics view was opened to explore the sequence record and its annotated genomic features.
+
+Note: H37Rv is the reference genome selected for this project. CT2018-00091 is a separate strain record viewed during BLAST analysis.
+
+7. Results and Observations 
+
+The NCBI reference record provides access to the complete H37Rv genome sequence and its associated genomic annotations.
+
+The genome has a length of 4,411,532 base pairs and contains double-stranded DNA arranged as one circular chromosome. Its GC content is approximately 65.6%.
+
+The BLAST search provided a sequence match associated with another Mycobacterium tuberculosis strain. The result can be examined using alignment statistics, including percentage identity, query coverage, and E-value.
+
+BLAST result details: Add the actual percentage identity, query coverage, E-value, and alignment length from your BLAST results page. Do not estimate these values.
+
+8. Conclusion 
+
+This project provided an introduction to biological dataset selection and genome exploration using NCBI. The H37Rv reference genome was identified, its basic genomic characteristics were recorded, and its nucleotide sequence was explored in FASTA format. BLAST was used to investigate sequence similarity with another strain record.
+
+The project demonstrates the usefulness of biological databases and bioinformatics tools in accessing and exploring genomic information.
+
+9. References National Center for Biotechnology Information (NCBI). Mycobacterium tuberculosis H37Rv, complete genome. RefSeq accession NC_000962.3. NCBI Genome Assembly Database. Mycobacterium tuberculosis H37Rv, assembly ASM19595v2. NCBI BLAST: https://blast.ncbi.nlm.nih.gov/Blast.cgi 
