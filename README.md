@@ -5,7 +5,8 @@ This project focuses on selecting a public biological dataset for bioinformatics
 
 ## Objective
 To identify and describe a biological or genomic dataset from a reliable public database.
-Dataset Information
+
+# Dataset Information
 Mycobacterium tuberculosis H37Rv — NCBI Genome Details 
 
 Organism name: Mycobacterium tuberculosis strain H37Rv
