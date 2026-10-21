@@ -7,7 +7,9 @@ This project focuses on selecting a biological dataset from the National Center 
 
 The project introduces biological database searching, genome sequence retrieval, accession numbers, and sequence comparison using BLAST.
 
-# Objective To identify a suitable biological dataset using NCBI. To collect important genomic information about the selected organism. To retrieve and examine the reference genome sequence. To explore sequence similarity using BLAST. To understand how bioinformatics tools support genomic research. 3. Organism Information 
+# Objective To identify a suitable biological dataset using NCBI.
+
+# Organism Information 
 
 Organism name: Mycobacterium tuberculosis H37Rv
 
@@ -15,7 +17,7 @@ Organism type: Bacterium
 
 Biological significance: It is a reference strain of the bacterium that causes tuberculosis (TB).
 
-# NCBI Genome Details Parameter Information Database NCBI Nucleotide / RefSeq Reference sequence accession NC_000962.3 Assembly name ASM19595v2 Assembly accession (GenBank) GCA_000195955.2 Assembly accession (RefSeq) GCF_000195955.2 Genome size 4,411,532 base pairs (bp) Genome type Double-stranded DNA (dsDNA) Chromosome structure One circular chromosome GC content Approximately 65.6% 
+NCBI Genome Details Parameter Information Database NCBI Nucleotide / RefSeq Reference sequence accession NC_000962.3 Assembly name ASM19595v2 Assembly accession (GenBank) GCA_000195955.2 Assembly accession (RefSeq) GCF_000195955.2 Genome size 4,411,532 base pairs (bp) Genome type Double-stranded DNA (dsDNA) Chromosome structure One circular chromosome GC content Approximately 65.6% 
 
 Official NCBI links:
 
