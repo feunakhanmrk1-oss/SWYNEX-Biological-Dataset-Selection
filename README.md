@@ -1,4 +1,4 @@
-8# SWYNEX Biological Dataset Selection Project Title 
+# SWYNEX Biological Dataset Selection Project Title 
 
 Selection and Exploration of the Mycobacterium tuberculosis H37Rv Genome Using NCBI
 # Project Overview 
