@@ -1,4 +1,4 @@
-# SWYNEX Biological Dataset Selection Project Title 
+8# SWYNEX Biological Dataset Selection Project Title 
 
 Selection and Exploration of the Mycobacterium tuberculosis H37Rv Genome Using NCBI
 # Project Overview 
@@ -80,3 +80,52 @@ The project demonstrates the usefulness of biological databases and bioinformati
 
 # References 
 National Center for Biotechnology Information (NCBI). Mycobacterium tuberculosis H37Rv, complete genome. RefSeq accession NC_000962.3. NCBI Genome Assembly Database. Mycobacterium tuberculosis H37Rv, assembly ASM19595v2. NCBI BLAST: https://blast.ncbi.nlm.nih.gov/Blast.cgi 
+
+# SWYNEX Task 2: Data Cleaning and Basic Analysis
+
+# Project Title
+
+Basic Genome Analysis of Mycobacterium tuberculosis H37Rv Using Python
+
+# Objective
+
+To analyze the reference genome sequence obtained from NCBI using Python in Google Colab.
+
+# Dataset Information
+
+- **Organism:** Mycobacterium tuberculosis H37Rv
+- **Accession Number:** NC_000962.3
+- **Genome Size:** 4,411,532 base pairs
+- **Genome Type:** Double-stranded DNA
+- **Source:** NCBI Nucleotide Database
+
+# Tools Used
+
+- NCBI Nucleotide Database
+- Google Colab
+- Python
+
+# Methodology
+
+1. Retrieved the H37Rv reference genome from NCBI in FASTA format.
+2. Uploaded the FASTA file into Google Colab.
+3. Used Python to read and analyze the nucleotide sequence.
+4. Counted the A, T, G and C nucleotide bases.
+5. Calculated the genome length and GC content.
+6. Checked for ambiguous bases represented by N.
+
+# Results
+
+The genome sequence was analyzed using Python. The genome length was checked, nucleotide counts were calculated, and GC content was estimated from the uploaded sequence.
+
+**Note:** Insert your actual nucleotide counts, GC content and ambiguous-base count from your Colab output here.
+
+# Conclusion
+
+This task provided practical experience in retrieving biological data, processing FASTA sequences, and performing basic genome analysis using Python. These methods are useful in bioinformatics and genomic research.
+
+# References
+
+- NCBI Reference Genome: https://www.ncbi.nlm.nih.gov/nuccore/NC_000962.3
+- Google Colab: https://colab.research.google.com/
+
