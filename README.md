@@ -129,3 +129,24 @@ This task provided practical experience in retrieving biological data, processin
 - NCBI Reference Genome: https://www.ncbi.nlm.nih.gov/nuccore/NC_000962.3
 - Google Colab: https://colab.research.google.com/
 
+## Task 3: Visualization and Interpretation Objective 
+
+To visualize nucleotide composition and GC content of the selected genome and interpret the results scientifically.
+
+# Results 
+
+The analysed DNA sequence contained [sequence length] characters, including [valid DNA bases] valid A, T, G and C bases. The nucleotide composition chart shows the distribution of the four DNA bases. The calculated GC content was [GC percentage]%.
+
+# Interpretation 
+
+The nucleotide composition chart helps compare the abundance of adenine, thymine, guanine and cytosine. The GC-content chart shows the percentage of guanine and cytosine compared with adenine and thymine. These measurements describe the composition of the analysed sequence.
+
+# What the Results Do and Do Not Prove 
+
+The charts describe nucleotide composition but do not, by themselves, prove that a gene causes disease, identify a biological function, or establish that a genome is more harmful or more resistant to treatment. Further sequence annotation and experimental evidence would be required for those conclusions.
+
+# Conclusion 
+
+Data visualization makes genome-composition results easier to compare and interpret. Nucleotide counts and GC content provide basic descriptive information about the selected DNA sequence.
+
+
