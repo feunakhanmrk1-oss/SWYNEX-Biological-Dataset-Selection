@@ -149,4 +149,12 @@ The charts describe nucleotide composition but do not, by themselves, prove that
 
 Data visualization makes genome-composition results easier to compare and interpret. Nucleotide counts and GC content provide basic descriptive information about the selected DNA sequence.
 
+# Reference 
+
+Google Colab Reference:
+https://colab.research.google.com/drive/1Kindf0oVrXhacJBPOnz6dG3dYZeNRtkt#scrollTo=mky2uGoOXm63
+
+NCBI Reference Genome: https://www.ncbi.nlm.nih.gov/nuccore/NC_000962.3
+
+
 
